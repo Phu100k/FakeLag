@@ -1,0 +1,8 @@
+{
+  "name": "New Ping Pro",
+  "description": "A professional network latency simulator and lag switch utility featuring an interactive floating overlay and app-specific traffic filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
